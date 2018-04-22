@@ -1,0 +1,29 @@
+p.a{ ; 
+font-weight: normal;
+font-size: 12pt;
+font-family: cursive;
+}
+h2 { color: 	#6495ED; }
+h1.l{
+font-size: 40pt;
+font-weight: bold;
+font-style: normal;
+color: 	#6495ED;
+}
+body{
+    /*background-color: #696969;*/
+	font-family: "Trebuchet MS", "Verdana", sans-serif;
+	color: white;
+	background-color: #595547;
+	/*text-align: center;*/
+	/*width:800px;*/
+}
+
+.special{
+	color: yellow;
+	font-family: cursive;
+	font-size: 12pt;
+}
+strong {
+	color:  #FFF86B;
+}
